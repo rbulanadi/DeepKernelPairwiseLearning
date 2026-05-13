@@ -1,5 +1,8 @@
 # Deep Kernel Pairwise Learning
 
+by Ralph Bulanadi, Yongtao Liu
+Center for Nanophase Materials Sciences, Oak Ridge National Laboratory
+
 ## Features
 - Tie/Equal Support: Users can indicate when two options are equally good
 - Confidence Weighting: Express certainty about each preference (weak/medium/strong)
